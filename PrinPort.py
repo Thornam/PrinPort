@@ -404,15 +404,6 @@ def principal_alpha_portfolio(returns, signals, K=-1, p=2, D=120, eff=False):
     
     ################################################################################
 
-    # Calculating position matrix of the individual PAPs
-    # For the calculation of the individual PAPs we have two methode, where I can't really figure from the paper
-    # which mathematically is the right one. However it seems like method two is the one giving the results which
-    # would be more expected, but method one is the one stated directly in the main text of the paper. Method two is kind of
-    # implied in the appendix (proof of proposition 11)
-    # For method 1 we need to switch signs on the weights, which isn't nessecarily intuitive.
-    # If method one is used we can not use the L_k for the calculation of L since that would be wrong in terms of L in
-    # the proof of proposition 11
-
     # Method one:
     #L_k = np.einsum('il,jl-> lij', V_real, V_imag) - np.einsum('il,jl-> lij', V_imag, V_real)
 
