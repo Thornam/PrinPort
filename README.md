@@ -9,6 +9,12 @@ The code is based on Proposition 11 from the paper:
 <img src="https://github.com/Thornam/PrinPort/blob/main/Figures/Proposition_11.png" width=65% height=65%>
 </p>
 
+
+With the definitions:
+<img src="https://github.com/Thornam/PrinPort/blob/main/Figures/PP.png" width=65% height=65%>
+
+<img src="https://github.com/Thornam/PrinPort/blob/main/Figures/PEP.png" width=65% height=65%>
+
 ## Code
 
 The file "PrinPort" is a Python file with functions to create the Principal Portfolios, the Principal Exposure Portfolios, and the Principal Alpha Portfolios for a given set of return and signal vectors.
