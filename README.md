@@ -2,6 +2,13 @@
 
 The repository creates a Python code for the paper "Principal Portfolio" by Bryan T. Kelly, Semyond Malamud, and Lasse Heje Pedersen [[1](https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13199)].
 
+The code is based on Proposition 11 from the paper:
+<br/><br/><br/>
+
+<p align="center">
+<img src="https://github.com/Thornam/PrinPort/blob/main/Figures/Proposition_11.png" width=65% height=65%>
+</p>
+
 ## Code
 
 The file "PrinPort" is a Python file with functions to create the Principal Portfolios, the Principal Exposure Portfolios, and the Principal Alpha Portfolios for a given set of return and signal vectors.
