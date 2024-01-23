@@ -3,7 +3,8 @@
 The repository creates a Python code for the paper "Principal Portfolio" by Bryan T. Kelly, Semyond Malamud, and Lasse Heje Pedersen [[1](https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13199)].
 
 The code is based on the Proposition 11 from the paper:
-![Proposition 11](/Figures/Proposition_11.png "Proposition 11" width="50" height="50")
+
+<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://github.com/Thornam/PrinPort/blob/main/Figures/Proposition_11.png)" width=50% height=50%>
 
 ## Code
 
