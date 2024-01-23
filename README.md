@@ -4,7 +4,7 @@ The repository creates a Python code for the paper "Principal Portfolio" by Brya
 
 ## Code
 
-The file "PrinPort" is a Python file with functions to create the Principal Portfolios, the Principal Exposure Portfolios, and the Principal Alpha Portfolios for a given set of return and signal vectors. This is based on Proposition 11 in the paper:
+The file "PrinPort" is a Python file with functions to create the Principal Portfolios, the Principal Exposure Portfolios, and the Principal Alpha Portfolios for a given set of return and signal vectors. This is based on Proposition 11 in the paper.
 <br/><br/><br/>
 
 <p align="center">
