@@ -4,9 +4,12 @@ The repository creates a Python code for the paper "Principal Portfolio" by Brya
 
 The code is based on the Proposition 11 from the paper:
 
+
 <p align="center">
 <img src="https://github.com/Thornam/PrinPort/blob/main/Figures/Proposition_11.png" width=65% height=65%>
 </p>
+
+
 ## Code
 
 The file "PrinPort" is a Python file with functions to create the Principal Portfolios, the Principal Exposure Portfolios, and the Principal Alpha Portfolios for a given set of return and signal vectors.
