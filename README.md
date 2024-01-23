@@ -13,9 +13,9 @@ The code is based on Proposition 11 from the paper:
 With the definitions:
 
 
-<img src="https://github.com/Thornam/PrinPort/blob/main/Figures/PP.png" width=65% height=65%>
+<img src="https://github.com/Thornam/PrinPort/blob/main/Figures/PP.png" width=55% height=55%>
 
-<img src="https://github.com/Thornam/PrinPort/blob/main/Figures/PEP.png" width=65% height=65%>
+<img src="https://github.com/Thornam/PrinPort/blob/main/Figures/PEP.png" width=55% height=55%>
 
 ## Code
 
